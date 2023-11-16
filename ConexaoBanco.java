@@ -8,7 +8,7 @@ public class ConexaoBanco {
 	private static final String USERNAME = "Whinters";
 	
 	// Senha do usuário do MySQL
-	private static final String PASSWORD = "Vh1024262929@";
+	private static final String PASSWORD = "senha";
 	
 	// Conexão com o banco de dados através da url:
 	private static final String DATABASE_URL = "jdbc:mysql://localhost:3306/produto";
